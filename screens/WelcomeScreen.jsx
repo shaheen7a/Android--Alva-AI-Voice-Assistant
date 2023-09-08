@@ -36,7 +36,7 @@ const WelcomeScreen = () => {
       {/* start button */}
       <TouchableOpacity
         onPress={() => navigation.navigate("Home")}
-        className="bg-emerald-600 mx-5 p-4 rounded-2xl"
+        className="bg-black mx-5 p-4 rounded-2xl"
       >
         <Text
           style={{ fontSize: wp(6) }}

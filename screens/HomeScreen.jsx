@@ -16,12 +16,13 @@ import {
 import { apiCall } from "../api/openAi";
 import Features from "../components/features";
 import Tts from "react-native-tts";
+import { dummyMessages } from "../constants";
 
 const HomeScreen = () => {
   const [result, setResult] = useState("");
   const [recording, setRecording] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [messages, setMessages] = useState([]);
+  const [messages, setMessages] = useState(dummyMessages);
   const [speaking, setSpeaking] = useState(false);
   const scrollViewRef = useRef();
 

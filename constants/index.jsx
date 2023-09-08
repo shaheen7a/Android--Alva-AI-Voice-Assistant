@@ -1,13 +1,13 @@
-export const apiKey = "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";
+export const apiKey = "sk-...";
 
 export const dummyMessages = [
   {
     role: "user",
-    content: "How are you?",
+    content: "You can Generate Pics?",
   },
   {
     role: "assistant",
-    content: "I'm fine, How may i help you today.",
+    content: "Yes, How may i help you today.",
   },
   {
     role: "user",
