@@ -15,7 +15,7 @@ const WelcomeScreen = () => {
           style={{ fontSize: wp(10) }}
           className="text-center font-bold text-gray-700"
         >
-          Jarvis
+          Alva
         </Text>
         <Text
           style={{ fontSize: wp(4) }}
