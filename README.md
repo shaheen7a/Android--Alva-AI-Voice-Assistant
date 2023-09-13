@@ -31,5 +31,7 @@ Alva app uses artificial intelligence to generate text and images or pictures ba
 - Linkedin - [@aous-shaheen-381636221](https://www.linkedin.com/in/shaheen2001/)
 - Facebook - [@aoushaheen7](https://www.facebook.com/shaheen72001/)
 
+By me 🚀🚀🚀 
+Aous Shaheen ...
 
 I appreciate your interest in ChatZone! Stay tuned for future updates and the official release of the app. If you have any questions or feedback, feel free to reach out. 😊🚀
