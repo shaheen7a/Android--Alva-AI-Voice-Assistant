@@ -33,5 +33,3 @@ Alva app uses artificial intelligence to generate text and images or pictures ba
 
 By me 🚀🚀🚀 
 Aous Shaheen ...
-
-I appreciate your interest in ChatZone! Stay tuned for future updates and the official release of the app. If you have any questions or feedback, feel free to reach out. 😊🚀
